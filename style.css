@@ -1,0 +1,14 @@
+.heading{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+
+#SN{
+    color: black;
+    text-align: center;
+    background-color: brown;
+    margin-left: 40%;
+}
